@@ -1,0 +1,12 @@
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\bin\Debug\net6.0\MB.Application.Contracts.deps.json
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\bin\Debug\net6.0\MB.Application.Contracts.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\bin\Debug\net6.0\MB.Application.Contracts.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.csproj.AssemblyReference.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.AssemblyInfoInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.AssemblyInfo.cs
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\refint\MB.Application.Contracts.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\MB.Application.Contracts.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application.Contracts\obj\Debug\net6.0\ref\MB.Application.Contracts.dll

@@ -1,0 +1,17 @@
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Application.deps.json
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Application.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Application.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Application.Contracts.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Domin.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Application.Contracts.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\bin\Debug\net6.0\MB.Domin.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.csproj.AssemblyReference.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.AssemblyInfoInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.AssemblyInfo.cs
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.csproj.CopyComplete
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\refint\MB.Application.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\MB.Application.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Application\obj\Debug\net6.0\ref\MB.Application.dll

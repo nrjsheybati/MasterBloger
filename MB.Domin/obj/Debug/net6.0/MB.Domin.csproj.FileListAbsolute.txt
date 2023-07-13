@@ -1,0 +1,12 @@
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Domin.deps.json
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Domin.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Domin.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.csproj.AssemblyReference.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.AssemblyInfoInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.AssemblyInfo.cs
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.csproj.CoreCompileInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\refint\MB.Domin.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\ref\MB.Domin.dll

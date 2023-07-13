@@ -1,0 +1,12 @@
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Infrastructure.Query.deps.json
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Infrastructure.Query.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Infrastructure.Query.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.csproj.AssemblyReference.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.AssemblyInfo.cs
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\refint\MB.Infrastructure.Query.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\ref\MB.Infrastructure.Query.dll
