@@ -157,7 +157,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              },
+              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj": {
+                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

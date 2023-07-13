@@ -635,14 +635,38 @@
           }
         }
       },
+      "MB.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MB.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Application.Contracts.dll": {}
+        }
+      },
       "MB.Domin/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
+          "MB.Infrastructure.Query": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MB.Domin.dll": {}
         },
         "runtime": {
           "bin/placeholder/MB.Domin.dll": {}
+        }
+      },
+      "MB.Infrastructure.Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
         }
       }
     }
@@ -1866,10 +1890,20 @@
         "version.txt"
       ]
     },
+    "MB.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../MB.Application.Contracts/MB.Application.Contracts.csproj",
+      "msbuildProject": "../MB.Application.Contracts/MB.Application.Contracts.csproj"
+    },
     "MB.Domin/1.0.0": {
       "type": "project",
       "path": "../MB.Domin/MB.Domin.csproj",
       "msbuildProject": "../MB.Domin/MB.Domin.csproj"
+    },
+    "MB.Infrastructure.Query/1.0.0": {
+      "type": "project",
+      "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
+      "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1887,9 +1921,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EfCore.csproj",
-      "projectName": "MB.Infrastructure.EfCore",
-      "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EfCore.csproj",
+      "projectUniqueName": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj",
+      "projectName": "MB.Infrastructure.EFCore",
+      "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Kian.Co\\.nuget\\packages\\",
       "outputPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,5 @@
-﻿using MB.Domin.ArticleCategoryAgg;
+﻿using MB.Domin.ArticleAgg;
+using MB.Domin.ArticleCategoryAgg;
 using MB.Infrastructure.EFCore.Mapping;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,6 +13,7 @@ namespace MB.Infrastructure.Core
     public class MasterBloggerContext:DbContext
     {
         public DbSet<ArticleCategory> ArticleCategories { get; set; }
+        public DbSet<Articles> Articles { get; set; }
 
         public MasterBloggerContext(DbContextOptions<MasterBloggerContext> options) : base(options)
         {

@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MB.Domin/1.0.0": {
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
+          "MB.Infrastructure.Query": "1.0.0"
+        },
         "runtime": {
           "MB.Domin.dll": {}
+        }
+      },
+      "MB.Application.Contracts/1.0.0": {
+        "runtime": {
+          "MB.Application.Contracts.dll": {}
+        }
+      },
+      "MB.Infrastructure.Query/1.0.0": {
+        "runtime": {
+          "MB.Infrastructure.Query.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MB.Domin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MB.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MB.Infrastructure.Query/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

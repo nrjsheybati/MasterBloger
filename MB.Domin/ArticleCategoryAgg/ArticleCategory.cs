@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MB.Domin.ArticleAgg;
+using System.Collections.Generic;
 
 namespace MB.Domin.ArticleCategoryAgg
 {
@@ -14,11 +16,18 @@ namespace MB.Domin.ArticleCategoryAgg
             Title = title;
             IsDeleted = false;
             CreateTitel = DateTime.Now;
+            Articles = new List<Articles>();
         }
-        public long Id { get; set; }
-        public string Title { get; set; }
-        public bool IsDeleted { get; set; }
-        public DateTime CreateTitel { get; set; }
+
+        protected ArticleCategory()
+        {
+        }
+        public long Id { get; private set; }
+        public string Title { get; private set; }
+        public bool IsDeleted { get; private set; }
+        public DateTime CreateTitel { get; private set; }
+        public ICollection<Articles> Articles { get; set; }
+        //public ICollection<Article> Articles { get; set; }
         public void Rename(string title)
         {
             Title = title;

@@ -662,6 +662,10 @@
       "MB.Domin/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
+          "MB.Infrastructure.Query": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MB.Domin.dll": {}
         },

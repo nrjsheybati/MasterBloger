@@ -471,6 +471,10 @@
         }
       },
       "MB.Domin/1.0.0": {
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
+          "MB.Infrastructure.Query": "1.0.0"
+        },
         "runtime": {
           "MB.Domin.dll": {}
         }

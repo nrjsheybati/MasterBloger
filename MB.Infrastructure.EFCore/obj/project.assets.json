@@ -625,6 +625,10 @@
       "MB.Domin/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
+          "MB.Infrastructure.Query": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MB.Domin.dll": {}
         },
@@ -645,6 +649,16 @@
         },
         "runtime": {
           "bin/placeholder/MB.Infrastructure.EFCore.dll": {}
+        }
+      },
+      "MB.Infrastructure.Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
         }
       }
     }
@@ -1831,6 +1845,11 @@
       "type": "project",
       "path": "../MB.Infrastructure.Core/MB.Infrastructure.EFCore.csproj",
       "msbuildProject": "../MB.Infrastructure.Core/MB.Infrastructure.EFCore.csproj"
+    },
+    "MB.Infrastructure.Query/1.0.0": {
+      "type": "project",
+      "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
+      "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
