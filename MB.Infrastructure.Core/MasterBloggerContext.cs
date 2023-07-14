@@ -21,6 +21,8 @@ namespace MB.Infrastructure.Core
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new ArticleCategoryMapping());
+            modelBuilder.ApplyConfiguration(new ArticleMapping());
+
             base.OnModelCreating(modelBuilder);
         }
 

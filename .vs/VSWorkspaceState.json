@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\MB.Domin",
+    "\\MB.Domin\\ArticleCategoryAgg",
     "\\MB.Infrastructure.Core",
     "\\MB.Infrastructure.Core\\Repository",
     "\\MB.Infrastructure.EFCore"

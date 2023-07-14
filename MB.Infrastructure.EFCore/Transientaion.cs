@@ -1,14 +1,13 @@
 ﻿using MB.Application;
+using MB.Application.Contracts.Article;
 using MB.Application.Contracts.ArticleCategory;
+using MB.Domin.ArticleAgg;
 using MB.Domin.ArticleCategoryAgg;
 using MB.Infrastructure.Core.Repository;
+using MB.Infrastructure.EFCore.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MB.Infrastructure.Core
 {
@@ -18,7 +17,8 @@ namespace MB.Infrastructure.Core
         {
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
-
+            services.AddTransient<IArticleApplication, ArticleApplication>();
+            services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddDbContext<MasterBloggerContext>(options =>
                 options.UseSqlServer(connectionString));
         }

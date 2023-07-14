@@ -15,7 +15,7 @@ namespace MB.Domin.ArticleAgg
         public string Image { get; private set; }
         public string Content { get; private set; }
         public bool IsDeleted { get; private set; }
-        public DateTime CreateionDate { get; private set; }
+        public DateTime CreateionDate { get; private set; }  
         public long ArticleCategoryId { get; private set; }
         public ArticleCategory articleCategory { get; private set; }
         protected Articles()
