@@ -27,7 +27,7 @@ namespace MB.Domin.ArticleCategoryAgg
         public bool IsDeleted { get; private set; }
         public DateTime CreateTitel { get; private set; }
         public ICollection<Articles> Articles { get; set; }
-        //public ICollection<Article> Articles { get; set; }
+        
         public void Rename(string title)
         {
             Title = title;
