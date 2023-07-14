@@ -649,24 +649,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "MB.Application.Contracts": "1.0.0",
-          "MB.Infrastructure.Query": "1.0.0"
+          "MB.Application.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MB.Domin.dll": {}
         },
         "runtime": {
           "bin/placeholder/MB.Domin.dll": {}
-        }
-      },
-      "MB.Infrastructure.Query/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/MB.Infrastructure.Query.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MB.Infrastructure.Query.dll": {}
         }
       }
     }
@@ -1899,15 +1888,11 @@
       "type": "project",
       "path": "../MB.Domin/MB.Domin.csproj",
       "msbuildProject": "../MB.Domin/MB.Domin.csproj"
-    },
-    "MB.Infrastructure.Query/1.0.0": {
-      "type": "project",
-      "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
-      "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MB.Application.Contracts >= 1.0.0",
       "MB.Domin >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.18",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.18",
@@ -1947,6 +1932,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+              "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+            },
             "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj": {
               "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj"
             }

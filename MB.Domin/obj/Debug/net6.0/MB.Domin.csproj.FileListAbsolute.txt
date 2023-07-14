@@ -11,7 +11,5 @@ D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\re
 D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.pdb
 D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\ref\MB.Domin.dll
 D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Application.Contracts.dll
-D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Infrastructure.Query.dll
 D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Application.Contracts.pdb
-D:\تمرین برنامه نویسی\projectmaster\MB.Domin\bin\Debug\net6.0\MB.Infrastructure.Query.pdb
 D:\تمرین برنامه نویسی\projectmaster\MB.Domin\obj\Debug\net6.0\MB.Domin.csproj.CopyComplete

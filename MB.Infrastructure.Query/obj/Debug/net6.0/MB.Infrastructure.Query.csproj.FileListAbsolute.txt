@@ -10,3 +10,10 @@ D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\refint\MB.Infrastructure.Query.dll
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.pdb
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\ref\MB.Infrastructure.Query.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Application.Contracts.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Domin.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Infrastructure.EFCore.dll
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Infrastructure.EFCore.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Application.Contracts.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\bin\Debug\net6.0\MB.Domin.pdb
+D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Query\obj\Debug\net6.0\MB.Infrastructure.Query.csproj.CopyComplete

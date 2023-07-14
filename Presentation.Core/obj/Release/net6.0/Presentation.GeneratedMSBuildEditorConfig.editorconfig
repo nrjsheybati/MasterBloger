@@ -27,6 +27,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlQ2F0ZWdvcnlNYW5hZ2VtZW50XExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/تمرین برنامه نویسی/projectmaster/Presentation.Core/Areas/Administrator/Pages/ArticleManagement/CreateArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdlbWVudFxDcmVhdGVBcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/تمرین برنامه نویسی/projectmaster/Presentation.Core/Areas/Administrator/Pages/ArticleManagement/EditeArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdlbWVudFxFZGl0ZUFydGljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/تمرین برنامه نویسی/projectmaster/Presentation.Core/Areas/Administrator/Pages/ArticleManagement/ListAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxQYWdlc1xBcnRpY2xlTWFuYWdlbWVudFxMaXN0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

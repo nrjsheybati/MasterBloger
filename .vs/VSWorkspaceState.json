@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\MB.Domin",
+    "\\MB.Domin\\ArticleAgg",
     "\\MB.Domin\\ArticleCategoryAgg",
     "\\MB.Infrastructure.Core",
     "\\MB.Infrastructure.Core\\Repository",

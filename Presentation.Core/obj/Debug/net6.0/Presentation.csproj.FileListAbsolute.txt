@@ -54,13 +54,11 @@ D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Domin.dll
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Core.dll
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.EFCore.dll
-D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Query.dll
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Application.Contracts.pdb
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Application.pdb
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Domin.pdb
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.EFCore.pdb
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Core.pdb
-D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Query.pdb
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\obj\Debug\net6.0\staticwebassets.build.json
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\obj\Debug\net6.0\staticwebassets.development.json
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
@@ -74,3 +72,5 @@ D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\obj\Debug\
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\obj\Debug\net6.0\ref\Presentation.dll
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\Humanizer.dll
 D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Query.dll
+D:\تمرین برنامه نویسی\projectmaster\Presentation.Core\bin\Debug\net6.0\MB.Infrastructure.Query.pdb

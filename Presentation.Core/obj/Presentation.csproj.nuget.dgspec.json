@@ -160,9 +160,6 @@
             "projectReferences": {
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
-              },
-              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj": {
-                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj"
               }
             }
           }
@@ -224,6 +221,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              },
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj"
               }
@@ -309,11 +309,11 @@
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application\\MB.Application.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application\\MB.Application.csproj"
               },
-              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj": {
-                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj"
-              },
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj"
+              },
+              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj": {
+                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj"
               }
             }
           }
@@ -380,7 +380,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -442,15 +446,6 @@
             "projectReferences": {
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
-              },
-              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application\\MB.Application.csproj": {
-                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Application\\MB.Application.csproj"
-              },
-              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj": {
-                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Domin\\MB.Domin.csproj"
-              },
-              "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj": {
-                "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.Core\\MB.Infrastructure.EFCore.csproj"
               },
               "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.EFCore\\MB.Infrastructure.Core.csproj": {
                 "projectPath": "D:\\تمرین برنامه نویسی\\projectmaster\\MB.Infrastructure.EFCore\\MB.Infrastructure.Core.csproj"

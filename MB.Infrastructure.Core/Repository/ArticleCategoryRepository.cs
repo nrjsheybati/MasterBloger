@@ -18,7 +18,8 @@ namespace MB.Infrastructure.Core.Repository
         public void AddArticle(ArticleCategory category)
         {
             _masterBloggerContext.ArticleCategories.Add(category);
-            _masterBloggerContext.Save();
+            Save();
+
         }
         public List<ArticleCategory> GetAll()
         {

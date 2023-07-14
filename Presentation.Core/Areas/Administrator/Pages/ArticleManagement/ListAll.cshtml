@@ -6,7 +6,7 @@
     <div class="card-header">
         <h3 class="float-left">Article List</h3>
         <div class="float-right">
-            <a class="btn btn-success" asp-page="./Create" asp-area="Administrator">Add New</a>
+            <a class="btn btn-success" asp-page="./CreateArticle" asp-area="Administrator">Add New</a>
         </div>
     </div>
     <div class="card-body">
@@ -40,7 +40,7 @@
                         </td>
                         <td>@article.CreateionDate</td>
                         <td>
-                            <a class="btn btn-warning float-left mr-3" asp-page="./Edit" asp-route-id="@article.Id">Edit</a>
+                            <a class="btn btn-warning float-left mr-3" asp-page="./EditeArticle" asp-route-id="@article.Id">Edit</a>
                             @if (article.IsDeleted)
                             {
                                 <form method="post" asp-page-handler="Activate" class="float-left">

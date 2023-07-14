@@ -19,5 +19,15 @@ namespace Presentation.Areas.Administrator.Pages.ArticleManagement
         {
             Articles = _articleApplication.List();
         }
+        public RedirectToPageResult OnpostRemove(long id)
+        {
+            _articleApplication.Delete(id);
+            return RedirectToPage("./ListAll");
+        }
+        public RedirectToPageResult OnpostActivate(long id)
+        {
+            _articleApplication.Active(id);
+            return RedirectToPage("./ListAll");
+        }
     }
 }

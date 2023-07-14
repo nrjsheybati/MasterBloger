@@ -16,6 +16,4 @@ D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\obj\D
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\obj\Debug\net6.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\obj\Debug\net6.0\ref\MB.Infrastructure.EFCore.dll
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\bin\Debug\net6.0\MB.Application.Contracts.dll
-D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\bin\Debug\net6.0\MB.Infrastructure.Query.dll
 D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\bin\Debug\net6.0\MB.Application.Contracts.pdb
-D:\تمرین برنامه نویسی\projectmaster\MB.Infrastructure.Core\bin\Debug\net6.0\MB.Infrastructure.Query.pdb

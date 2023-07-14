@@ -10,9 +10,10 @@ namespace MB.Application.Contracts.Article
     {
         List<ArticleViewModel> List();
         void create(CreateArticle createArticle);
-        void Edit(EditArticle renameArticleCategory);
+        void Edit(EditArticle renameArticle);
         EditArticle EditArticle(long id);
         void Delete(long id);
         void Active(long id);
+        
     }
 }

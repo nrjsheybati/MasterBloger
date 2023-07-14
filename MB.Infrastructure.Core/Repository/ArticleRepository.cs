@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace MB.Infrastructure.EFCore.Repository
 {
-    public class ArticleRepository :IArticleRepository
+    public class ArticleRepository : IArticleRepository
     {
         private readonly MasterBloggerContext _context;
 
@@ -35,7 +35,9 @@ namespace MB.Infrastructure.EFCore.Repository
         public void AddArticle(Articles articles)
         {
             _context.Articles.Add(articles);
-            _context.Save();
+            save();
+           
+            
         }
 
         public void DeleteArticle(Articles articles)
@@ -43,19 +45,19 @@ namespace MB.Infrastructure.EFCore.Repository
             throw new NotImplementedException();
         }
 
-        public Articles GetById(int id)
+        public Articles GetById(long id)
         {
-            return _context.Articles.FirstOrDefault(q => q.Id == id);
-        }
-
-        public void Save()
-        {
-            _context.SaveChanges();
+            return _context.Articles.FirstOrDefault(x => x.Id == id);
         }
 
         public void UpdateArticle(Articles articles)
         {
             throw new NotImplementedException();
+        }
+
+        public void save()
+        {
+            _context.SaveChanges();
         }
     }
 }

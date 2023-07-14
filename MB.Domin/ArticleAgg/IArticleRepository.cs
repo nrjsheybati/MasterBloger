@@ -11,9 +11,9 @@ namespace MB.Domin.ArticleAgg
     {
         List<ArticleViewModel> GetAll();
         void AddArticle(Articles articles);
-        Articles GetById(int id);
+        Articles GetById(long id);
         void DeleteArticle(Articles articles);
         void UpdateArticle(Articles articles);
-        void Save();
+        void save();
     }
 }

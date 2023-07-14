@@ -19,22 +19,30 @@ namespace MB.Application
 
         public void Active(long id)
         {
-            throw new NotImplementedException();
+            var Article = _articlerepository.GetById((int)id);
+            Article.Active(id);
+            _articlerepository.save();
         }
 
         public void create(CreateArticle createArticle)
         {
-            throw new NotImplementedException();
+            var Articles = new Articles(createArticle.Title ,createArticle.ShortDescription , createArticle.Image , createArticle.Content , createArticle.ArticleCategoryId);
+            _articlerepository.AddArticle(Articles);
         }
 
         public void Delete(long id)
         {
-            throw new NotImplementedException();
+            var articles =_articlerepository .GetById((int)id);
+            articles.Remove(id);
+            _articlerepository.save();
+            
         }
 
-        public void Edit(EditArticle renameArticleCategory)
+        public void Edit(EditArticle renameArticle)
         {
-            throw new NotImplementedException();
+            var category = _articlerepository.GetById((int)renameArticle.Id);
+            category.Edit(renameArticle.Title , renameArticle.ShortDescription , renameArticle.Image , renameArticle.Content , renameArticle.ArticleCategoryId);
+            _articlerepository.save();
         }
 
         public List<ArticleViewModel> List()
@@ -44,7 +52,23 @@ namespace MB.Application
 
         public EditArticle EditArticle(long id)
         {
-            throw new NotImplementedException();
+            var articleup = _articlerepository.GetById((int)id);
+            return new EditArticle
+            {
+                Id = articleup.Id,
+                Title = articleup.Title,
+                ShortDescription = articleup.ShortDescription,
+                Image = articleup.Image,
+                Content = articleup.Content,
+                ArticleCategoryId = articleup.ArticleCategoryId,
+
+                
+            };
         }
+
+        //public void Save()
+        //{
+        //    _articlerepository.save();
+        //}
     }
 }

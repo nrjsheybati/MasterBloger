@@ -13,8 +13,8 @@
   <ItemGroup>
     <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
     <ProjectReference Include="..\MB.Application\MB.Application.csproj" />
-    <ProjectReference Include="..\MB.Domin\MB.Domin.csproj" />
     <ProjectReference Include="..\MB.Infrastructure.Core\MB.Infrastructure.EFCore.csproj" />
+    <ProjectReference Include="..\MB.Infrastructure.Query\MB.Infrastructure.Query.csproj" />
   </ItemGroup>
 
 </Project>
